@@ -1,4 +1,4 @@
-# botYoutubeLive
+# bot Youtube Live Doações
 Este bot soma e apresenta em lista o valor das doações recebidas em lives do YouTube. A lista separa os somatórios dos valores em cada tipo de moeda automaticamente.
 
 # Instalação
