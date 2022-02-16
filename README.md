@@ -8,4 +8,4 @@ Este bot soma e apresenta em lista o valor das doações recebidas em lives do Y
 Copie o código e cole no console do navegador enquanto estiver em uma live monetizada do YouTube.
 
 ## Funcionamento
-Enquanto o código estiver rodando todas as mensagens estão sendo monitoradas para encontrar por novas doações, quando uma doação é descoberta o código verifica e adiciona na lista separado por tipo de moeda.
+Enquanto o código estiver rodando todas as mensagens estão sendo monitoradas para encontrar por novas doações, quando uma doação é descoberta o código adiciona na lista de acordo com o tipo de moeda.
